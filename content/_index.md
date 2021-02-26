@@ -45,7 +45,7 @@ outputs = ["Reveal"]
 
 ## Kafka Cluster
 
-<img src="images/kafka_cluster.png" height="470">
+<img src="images/kafka_cluster.png" height="450">
 
 <sup><sup>[image credits](https://learning.oreilly.com/library/view/kafka-the-definitive/9781492043072/assets/ktdg_0107.png)</sup></sup>
 
@@ -53,7 +53,7 @@ outputs = ["Reveal"]
 
 ## Producers
 
-<img src="images/topic_producers.png" height="470">
+<img src="images/topic_producers.png" height="450">
 
 <sup><sup>[image credits](https://learning.oreilly.com/library/view/kafka-the-definitive/9781492043072/assets/ktdg_0105.png)</sup></sup>
 
@@ -61,7 +61,7 @@ outputs = ["Reveal"]
 
 ## Consumers
 
-<img src="images/topic_consumers.png" height="470">
+<img src="images/topic_consumers.png" height="450">
 
 <sup><sup>[image credits](https://learning.oreilly.com/library/view/kafka-the-definitive/9781492043072/assets/ktdg_0106.png)</sup></sup>
 
