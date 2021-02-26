@@ -83,6 +83,15 @@ outputs = ["Reveal"]
 
 ---
 
+### Challenges
+
+- Distributed systems are complex ([first law](https://martinfowler.com/bliki/FirstLaw.html))
+- Kafka is difficult to operate
+- Many parameters: replication factor, ISR, retention, ...
+- Logic within clients (consumers and producers)
+
+---
+
 ## References
 
 - [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781492043072/)
