@@ -7,6 +7,10 @@ outputs = ["Reveal"]
 
 ---
 
+<https://on-kafka.netlify.app>
+
+---
+
 ## What Is Kafka?
 
 > Apache Kafka is an open-source distributed **event streaming** platform
@@ -77,7 +81,7 @@ outputs = ["Reveal"]
 
 - Stream processing (data science, Hadoop)
 - Messaging
-- Activity tracking (websites, services, LinkedIn)
+- Activity tracking (websites, LinkedIn)
 - Metrics and logging
 - Commit log
 
@@ -110,3 +114,7 @@ outputs = ["Reveal"]
 - Organizer of [Cloud Native Bern Meetup](https://www.meetup.com/cloudnativebern)
 - Organizer of [Swiss Cloud Native Day](https://cloudnativeday.ch)
 - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
+
+---
+
+<https://github.com/johanngyger/on-kafka>
